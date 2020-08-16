@@ -1,12 +1,8 @@
 name: 'site'
 
 on:
-    push:
-    pull_request:
-    schedule:
-      - cron: '0 */4 * * *'
-    issues:
-    issue_comment:
+  push:
+  pull_request:
 
 jobs:
   site:

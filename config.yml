@@ -1,4 +1,4 @@
-baseURL: 'https://vhdl.github.io/news/'
+baseURL: 'https://eine.github.io/VHDL-News/'
 title: 'VHDL News'
 theme: 'bare-hugo-theme'
 enableGitInfo: false
@@ -7,19 +7,19 @@ taxonomies:
   tag: tags
 params:
   author: 'Open Source VHDL'
-  repoLink: 'https://github.com/VHDL/news'
+  repoLink: 'https://github.com/eine/VHDL-News'
   description: 'A social news website'
   mainSections: [ 'past', 'show', 'articles', 'tools', 'cores' ]
   postcss: false
   includeAuthorInTitle: false
   social:
       - icon: 'github'
-        url: 'https://github.com/VHDL/news'
+        url: "https://github.com/eine/VHDL-News"
 #  categories:
 #    "Libraries": ""
 
 menu:
   right:
-    - identifier: 'submit'
-      name: 'Submit'
-      url: "https://github.com/VHDL/news/issues/new/choose"
+    - identifier: "submit"
+      name: "Submit"
+      url: "https://github.com/eine/VHDL-News/issues/new/choose"
