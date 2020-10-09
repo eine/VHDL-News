@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on VHDL News</title>
+    <link>https://eine.github.io/VHDL-News/tags/</link>
+    <description>Recent content in Tags on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Aug 2020 11:37:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://eine.github.io/VHDL-News/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cocotb</title>
+      <link>https://eine.github.io/VHDL-News/tags/cocotb/</link>
+      <pubDate>Tue, 18 Aug 2020 11:37:12 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/tags/cocotb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osvvm</title>
+      <link>https://eine.github.io/VHDL-News/tags/osvvm/</link>
+      <pubDate>Tue, 18 Aug 2020 11:37:12 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/tags/osvvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>study</title>
+      <link>https://eine.github.io/VHDL-News/tags/study/</link>
+      <pubDate>Tue, 18 Aug 2020 11:37:12 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/tags/study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uvm</title>
+      <link>https://eine.github.io/VHDL-News/tags/uvm/</link>
+      <pubDate>Tue, 18 Aug 2020 11:37:12 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/tags/uvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uvvm</title>
+      <link>https://eine.github.io/VHDL-News/tags/uvvm/</link>
+      <pubDate>Tue, 18 Aug 2020 11:37:12 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/tags/uvvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verification</title>
+      <link>https://eine.github.io/VHDL-News/tags/verification/</link>
+      <pubDate>Tue, 18 Aug 2020 11:37:12 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/tags/verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vunit</title>
+      <link>https://eine.github.io/VHDL-News/tags/vunit/</link>
+      <pubDate>Tue, 18 Aug 2020 11:37:12 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/tags/vunit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mentor</title>
+      <link>https://eine.github.io/VHDL-News/tags/mentor/</link>
+      <pubDate>Mon, 17 Aug 2020 22:01:57 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/tags/mentor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>https://eine.github.io/VHDL-News/tags/simulation/</link>
+      <pubDate>Mon, 17 Aug 2020 22:01:57 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

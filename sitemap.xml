@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/welcome/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/past/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/show/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/articles/</loc>
+    <lastmod>2020-08-17T22:01:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/cores/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tags/cocotb/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tags/osvvm/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tags/study/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tags/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tags/uvm/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tags/uvvm/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tags/verification/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tags/vunit/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/past/4/</loc>
+    <lastmod>2020-08-18T11:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/articles/3/</loc>
+    <lastmod>2020-08-17T22:01:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tags/mentor/</loc>
+    <lastmod>2020-08-17T22:01:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/tags/simulation/</loc>
+    <lastmod>2020-08-17T22:01:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/past/2/</loc>
+    <lastmod>2020-08-16T13:15:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eine.github.io/VHDL-News/articles/1/</loc>
+    <lastmod>2020-08-16T12:24:19+00:00</lastmod>
+  </url>
+  
+</urlset>

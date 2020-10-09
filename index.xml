@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VHDL News</title>
+    <link>https://eine.github.io/VHDL-News/</link>
+    <description>Recent content on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Aug 2020 11:37:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://eine.github.io/VHDL-News/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to VHDL News</title>
+      <link>https://eine.github.io/VHDL-News/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/welcome/</guid>
+      <description>Welcome to VHDL News Hacker News VHDL News is a bit different from other community sites, and we&amp;rsquo;d appreciate it if you&amp;rsquo;d take a minute to read the following as well as the guidelines.
+The community of hardware designers is small, open source HDL is a niche compared to other technology communities, and open source VHDL is a subset of the latter. Users/developers are typically lacking time to write proper docs and/or detailed articles to let their projects be known.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 2)</title>
+      <link>https://eine.github.io/VHDL-News/past/4/</link>
+      <pubDate>Tue, 18 Aug 2020 11:37:12 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/past/4/</guid>
+      <description>In the first article about our GitHub study we focused on the presence of tests in HDL repositories. This time we&amp;rsquo;re looking into what standard verification frameworks are being used. The main conclusions are that:
+ VUnit is the most used verification framework for professional and academic VHDL repositories on GitHub. Most repositories using more than one framework use VUnit and OSVVM. More than half of the repositories using OSVVM also use VUnit.</description>
+    </item>
+    
+    <item>
+      <title>Addressing VHDL Verification Challenges with OSVVM</title>
+      <link>https://eine.github.io/VHDL-News/articles/3/</link>
+      <pubDate>Mon, 17 Aug 2020 22:01:57 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/articles/3/</guid>
+      <description>An introduction to the capabilities of OSVVM utility and verification component libraries.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 1)</title>
+      <link>https://eine.github.io/VHDL-News/past/2/</link>
+      <pubDate>Sun, 16 Aug 2020 13:15:51 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/past/2/</guid>
+      <description>During the last few years we’ve had many discussions within the VUnit community where we failed to reach a conclusion because we don’t fully know how people at large are working with design and verification. Some questions arise frequently:
+ How is verification done? What frameworks are used? Are they used together? What are the dominant coding styles? Would people align to those if they knew?  Knowing these would help the development of VUnit [1]; where do we put our efforts?</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry?</title>
+      <link>https://eine.github.io/VHDL-News/articles/1/</link>
+      <pubDate>Sun, 16 Aug 2020 12:24:19 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/articles/1/</guid>
+      <description>During the last few years we’ve had many discussions within the VUnit community where we failed to reach a conclusion because we don’t fully know how people at large are working with design and verification. Some questions arise frequently:
+ How is verification done? What frameworks are used? Are they used together? What are the dominant coding styles? Would people align to those if they knew?  Knowing these would help the development of VUnit [1]; where do we put our efforts?</description>
+    </item>
+    
+  </channel>
+</rss>

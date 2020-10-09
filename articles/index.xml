@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on VHDL News</title>
+    <link>https://eine.github.io/VHDL-News/articles/</link>
+    <description>Recent content in Articles on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Aug 2020 22:01:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://eine.github.io/VHDL-News/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Addressing VHDL Verification Challenges with OSVVM</title>
+      <link>https://eine.github.io/VHDL-News/articles/3/</link>
+      <pubDate>Mon, 17 Aug 2020 22:01:57 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/articles/3/</guid>
+      <description>An introduction to the capabilities of OSVVM utility and verification component libraries.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry?</title>
+      <link>https://eine.github.io/VHDL-News/articles/1/</link>
+      <pubDate>Sun, 16 Aug 2020 12:24:19 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/articles/1/</guid>
+      <description>During the last few years we’ve had many discussions within the VUnit community where we failed to reach a conclusion because we don’t fully know how people at large are working with design and verification. Some questions arise frequently:
+ How is verification done? What frameworks are used? Are they used together? What are the dominant coding styles? Would people align to those if they knew?  Knowing these would help the development of VUnit [1]; where do we put our efforts?</description>
+    </item>
+    
+  </channel>
+</rss>

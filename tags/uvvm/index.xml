@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uvvm on VHDL News</title>
+    <link>https://eine.github.io/VHDL-News/tags/uvvm/</link>
+    <description>Recent content in uvvm on VHDL News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Aug 2020 11:37:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://eine.github.io/VHDL-News/tags/uvvm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 2)</title>
+      <link>https://eine.github.io/VHDL-News/past/4/</link>
+      <pubDate>Tue, 18 Aug 2020 11:37:12 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/past/4/</guid>
+      <description>In the first article about our GitHub study we focused on the presence of tests in HDL repositories. This time we&amp;rsquo;re looking into what standard verification frameworks are being used. The main conclusions are that:
+ VUnit is the most used verification framework for professional and academic VHDL repositories on GitHub. Most repositories using more than one framework use VUnit and OSVVM. More than half of the repositories using OSVVM also use VUnit.</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry? (Part 1)</title>
+      <link>https://eine.github.io/VHDL-News/past/2/</link>
+      <pubDate>Sun, 16 Aug 2020 13:15:51 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/past/2/</guid>
+      <description>During the last few years we’ve had many discussions within the VUnit community where we failed to reach a conclusion because we don’t fully know how people at large are working with design and verification. Some questions arise frequently:
+ How is verification done? What frameworks are used? Are they used together? What are the dominant coding styles? Would people align to those if they knew?  Knowing these would help the development of VUnit [1]; where do we put our efforts?</description>
+    </item>
+    
+    <item>
+      <title>What Can GitHub Tell Us About the HDL Industry?</title>
+      <link>https://eine.github.io/VHDL-News/articles/1/</link>
+      <pubDate>Sun, 16 Aug 2020 12:24:19 +0000</pubDate>
+      
+      <guid>https://eine.github.io/VHDL-News/articles/1/</guid>
+      <description>During the last few years we’ve had many discussions within the VUnit community where we failed to reach a conclusion because we don’t fully know how people at large are working with design and verification. Some questions arise frequently:
+ How is verification done? What frameworks are used? Are they used together? What are the dominant coding styles? Would people align to those if they knew?  Knowing these would help the development of VUnit [1]; where do we put our efforts?</description>
+    </item>
+    
+  </channel>
+</rss>
